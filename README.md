@@ -1,6 +1,6 @@
 # Retro Game
 
-###### demo: [[Github Pages]()]
+###### demo: [[Github Pages](https://goldboy1001.github.io/game/)]
 
 ## Концепция игры
 
